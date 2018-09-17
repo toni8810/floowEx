@@ -38,7 +38,7 @@ This will get the least common word in the xml file from db
 GET http://localhost:8080/words/least-common-db
 </code>
 
-#Technologies used
+# Technologies used
 This is a Spring Boot microservice which uses
 * Spring Web
 * Maven 
