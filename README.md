@@ -13,6 +13,7 @@ project and run the jar file which is in the target folder.
 
 Once the project is running open up a browser and use the following endpoints:
 
+# Use the API
 This will get the most common word in the xml file
 
 <code>
@@ -36,3 +37,11 @@ This will get the least common word in the xml file from db
 <code>
 GET http://localhost:8080/words/least-common-db
 </code>
+
+#Technologies used
+This is a Spring Boot microservice which uses
+* Spring Web
+* Maven 
+* MongoDb (in-memory and non-in-memory)
+* Lombok
+* Junit 5
