@@ -8,8 +8,8 @@ This project also requires Java 10+ to compile
 sudo docker run -p 27017:27017 --name test-mongo -d mongo
 </code>
 
-Now that MongoDB is up we run the main method or just package the
-project and run the jar file which is in the target folder.
+Now that MongoDB is up we run the main method or
+run the jar file which is in the target folder.
 
 Once the project is running open up a browser and use the following endpoints:
 
