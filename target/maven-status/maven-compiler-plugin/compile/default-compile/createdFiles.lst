@@ -1,0 +1,5 @@
+floow/test/exercise/repository/TextRepository.class
+floow/test/exercise/ExerciseApplication.class
+floow/test/exercise/service/WordService.class
+floow/test/exercise/document/Text.class
+floow/test/exercise/controller/WordController.class

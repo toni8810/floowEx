@@ -2,6 +2,8 @@
 In order for this API to work you need to bring up a MongoDB database.
 The easiest way to do this is use docker.
 
+This project also requires Java 10+ to compile
+
 <code>
 sudo docker run -p 27017:27017 --name test-mongo -d mongo
 </code>
